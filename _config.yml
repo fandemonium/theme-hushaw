@@ -5,4 +5,4 @@ pygments: false
 paginate: 5
 
 title: signifox's blog
-theme: hushaw
+theme: minima 
